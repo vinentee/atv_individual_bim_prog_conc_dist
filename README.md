@@ -1,7 +1,7 @@
 # Sistema de Transações Bancárias
 Este é um projeto Java que simula um sistema de transações bancárias entre clientes, lojas e funcionários.
 
-##Funcionalidades
+## Funcionalidades
 
 Cada cliente pode realizar compras em lojas, com valores de R$100 ou R$200, até que seu saldo seja zero.
 
