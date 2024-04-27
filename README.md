@@ -29,7 +29,7 @@ Para executar o projeto, siga estas etapas:
 
 Baixe ou clone este repositório em sua máquina local.
 
-Navegue entre as seguintes pastas: "sist_bancario" -> "src" -> "sist_bancario_v4"
+Navegue entre as seguintes pastas: "sistema_bancario" -> "src" -> "sist_bancario_v4"
 
 Compile os arquivos .java
 
