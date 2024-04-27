@@ -8,7 +8,7 @@ Cada loja pode receber pagamentos dos clientes e pagar seus funcionários.
 
 Cada funcionário recebe um salário da loja e investe parte dele em uma conta de investimentos.
 
-O banco intermediará as transações.
+## O banco intermediará as transações.
 
 Entidades
 Cliente
