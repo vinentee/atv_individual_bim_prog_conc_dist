@@ -16,15 +16,20 @@ Cliente
 
 Loja
 
-Funcionário\n
+Funcionário
+
 Banco
 
 Conta
-Como executar
+
+
+## Como executar
 Para executar o projeto, siga estas etapas:
 
-Certifique-se de ter o JDK (Java Development Kit) instalado em sua máquina.
 Baixe ou clone este repositório em sua máquina local.
+
 Abra o terminal e navegue até o diretório raiz do projeto.
-Compile os arquivos .java com o comando javac *.java.
+
+Compile os arquivos .java
+
 Execute o programa principal com o comando java Main.
